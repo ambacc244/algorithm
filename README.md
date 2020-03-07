@@ -5,7 +5,7 @@
 
 |문제|코드|
 |:-------------|:-------------|
-|완주하지 못한 선수|[C++](algorithm/level1/완주하지_못한_선수.cpp)|
+|완주하지 못한 선수|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/완주하지_못한_선수.cpp)|
 |모의고사|C++|
 |K번째수|C++|
 |체육복|C++|
