@@ -18,7 +18,7 @@
 |문자열 내림차순으로 배치하기|C++|
 |문자열 다루기 기본|C++|
 |서울에서 김서방 찾기|C++|
-|수박수박수박수박수박수?|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/수박수박수박수박수박수?.cpp)|
+|수박수박수박수박수박수?|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/수박수박수박수박수박수%3F.cpp)|
 |문자열을 정수로 바꾸기|C++|
 |시저 암호|C++|
 |약수의 합|C++|
