@@ -12,8 +12,8 @@
 |2016년|[C++](https://github.com/ambacc244/algorithm/tree/master/level1)|
 |가운데 글자 가져오기|[C++](https://github.com/ambacc244/algorithm/tree/master/level1)|
 |같은 숫자는 싫어|[C++](https://github.com/ambacc244/algorithm/tree/master/level1)|
-|나누어 떨어지는 숫자 배열|C++(https://github.com/ambacc244/algorithm/tree/master/level1)|
-|두 정수 사이의 합|C++(https://github.com/ambacc244/algorithm/tree/master/level1)|
+|나누어 떨어지는 숫자 배열|[C++](https://github.com/ambacc244/algorithm/tree/master/level1)|
+|두 정수 사이의 합|[C++](https://github.com/ambacc244/algorithm/tree/master/level1)|
 |문자열 내 마음대로 정렬하기|[C++](https://github.com/ambacc244/algorithm/tree/master/level1)|
 |문자열 내림차순으로 배치하기|[C++](https://github.com/ambacc244/algorithm/tree/master/level1)|
 |문자열 다루기 기본|[C++](https://github.com/ambacc244/algorithm/tree/master/level1)|
