@@ -11,7 +11,7 @@
 |체육복|C++|
 |2016년|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/2016.cpp)|
 |가운데 글자 가져오기|C++|
-|같은 숫자는 싫어|C++|
+|같은 숫자는 싫어|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/같은_숫자는_싫어.cpp)|
 |나누어 떨어지는 숫자 배열|C++|
 |두 정수 사이의 합|C++|
 |문자열 내 마음대로 정렬하기|C++|
