@@ -23,19 +23,23 @@
 |시저 암호|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/시저_암호.cpp)|
 |약수의 합|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/약수의_합.cpp)|
 |이상한 문자 만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/이상한_문자_만들기.cpp)|
-|자연수 뒤집어 배열로 만들기|C++|
-|정수 내림차순으로 배치하기|C++|
-|정수 제곱근 판별|C++|
-|제일 작은 수 제거하기|C++|
-|짝수와 홀수|C++|
-|최대공약수와 최소공배수|C++|
-|콜라츠 추측|C++|
-|평균 구하기|C++|
-|하샤드 수|C++|
-|핸드폰 번호 가리기|C++|
-|행렬의 덧셈|C++|
-|x만큼 간격이 있는 n개의 숫자|C++|
-|직사각형 별찍기|C++|
+|자연수 뒤집어 배열로 만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/자연수_뒤집어_배열로_만들기.cpp)|
+|정수 내림차순으로 배치하기|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/정수_내림차순으로_배치하기.cpp)|
+|정수 제곱근 판별|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/정수_제곱근_판별.cpp)|
+|제일 작은 수 제거하기|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/제일_작은_수_제거하기.cpp)|
+|짝수와 홀수|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/짝수와_홀수.cpp)|
+|최대공약수와 최소공배수|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/최대공약수와_최소공배수.cpp)|
+|콜라츠 추측|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/콜라츠_추측.cpp)|
+|평균 구하기|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/평균_구하기.cpp)|
+|하샤드 수|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/하샤드_수.cpp)|
+|핸드폰 번호 가리기|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/핸드폰_번호_가리기.cpp)|
+|행렬의 덧셈|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/행렬의_덧셈.cpp)|
+|x만큼 간격이 있는 n개의 숫자|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/x만큼_간격이_있는_n개의_숫자.cpp)|
+|직사각형 별찍기|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/직사각형_별찍기.cpp)|
+|예산|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/예산.cpp)|
+|비밀지도|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/비밀지도.cpp)|
+|실패율|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/실패율.cpp)|
+|다트 게임|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/다트_게임.cpp)|
 
 
 ## Level2
