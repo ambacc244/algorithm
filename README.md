@@ -46,30 +46,30 @@
 
 |문제|코드|
 |:-------------|:-------------|
-|기능개발|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/기능개발.cpp)|
-|스킬트리|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/스킬트리.cpp)|
-|124 나라의 숫자|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/124_나라의_숫자.cpp)|
-|탑|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/탑.cpp)|
-|주식가격|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/주식가격.cpp)|
-|다리를 지나는 트럭|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/다리를_지나는_트럭.cpp)|
-|쇠막대기|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/쇠막대기.cpp)|
+|기능개발|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/기능개발.cpp)|
+|스킬트리|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/스킬트리.cpp)|
+|124 나라의 숫자|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/124_나라의_숫자.cpp)|
+|탑|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/탑.cpp)|
+|주식가격|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/주식가격.cpp)|
+|다리를 지나는 트럭|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/다리를_지나는_트럭.cpp)|
+|쇠막대기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/쇠막대기.cpp)|
 |멀쩡한 사각형|C++|
 |프린터|C++|
-|문자열 압축|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/문자열_압축.cpp)|
+|문자열 압축|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/문자열_압축.cpp)|
 |카카오프렌즈 컬러링북|C++|
 |조이스틱|C++|
 |더 맵게|C++|
-|큰 수 만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/큰_수_만들기.cpp)|
+|큰 수 만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/큰_수_만들기.cpp)|
 |소수 찾기|C++|
-|괄호 변환|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/괄호_변환.cpp)|
+|괄호 변환|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/괄호_변환.cpp)|
 |가장 큰수|C++|
-|H-Index|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/H-Index.cpp)|
+|H-Index|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/H-Index.cpp)|
 |전화번호 목록|C++|
-|위장|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/위장.cpp)|
-|구명보트|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/구명보트.cpp)|
+|위장|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/위장.cpp)|
+|구명보트|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/구명보트.cpp)|
 |타겟 넘버|C++|
 |라면 공장|C++|
-|카펫|[C++](https://github.com/ambacc244/algorithm/tree/master/level1/카펫.cpp)|
+|카펫|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/카펫.cpp)|
 |가장 큰 정사각형 찾기|C++|
 |단체사진 찍기|C++|
 |올바른 괄호|C++|
