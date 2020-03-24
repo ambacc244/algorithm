@@ -76,7 +76,7 @@
 |다은 큰 숫자|C++|
 |땅따먹기|C++|
 |포켓몬|C++|
-|숫자의 표현|C++|
+|숫자의 표현|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/숫자의_표현.cpp)|
 |최댓값과 최솟값|C++|
 |최솟값 만들기|C++|
 |피보나치 수|C++|
@@ -88,12 +88,12 @@
 |점프와 순간 이동|C++|
 |영어 끝말잇기|C++|
 |예상 대진표|C++|
-|뉴스 클러스터링|C++|
+|뉴스 클러스터링|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/뉴스_클러스터링.cpp)|
 |프렌즈4블록|C++|
 |캐시|C++|
 |오픈채팅방|C++|
 |후보키|C++|
-|방금그곡|C++|
+|방금그곡|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/방금그곡.cpp)|
 |압축|C++|
 |파일명 정렬|C++|
 |n진수 게임|C++|
