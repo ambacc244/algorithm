@@ -54,7 +54,7 @@
 |다리를 지나는 트럭|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/다리를_지나는_트럭.cpp)|
 |쇠막대기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/쇠막대기.cpp)|
 |멀쩡한 사각형|C++|
-|프린터|C++|
+|프린터|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/프린터.cpp)|
 |문자열 압축|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/문자열_압축.cpp)|
 |카카오프렌즈 컬러링북|C++|
 |조이스틱|C++|
@@ -67,35 +67,35 @@
 |전화번호 목록|C++|
 |위장|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/위장.cpp)|
 |구명보트|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/구명보트.cpp)|
-|타겟 넘버|C++|
-|라면 공장|C++|
+|타겟 넘버|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/타겟_넘버.cpp)|
+|라면 공장|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/라면_공장.cpp)|
 |카펫|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/카펫.cpp)|
 |가장 큰 정사각형 찾기|C++|
 |단체사진 찍기|C++|
-|올바른 괄호|C++|
+|올바른 괄호|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/올바른_괄호.cpp)|
 |다은 큰 숫자|C++|
-|땅따먹기|C++|
-|포켓몬|C++|
+|땅따먹기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/땅따먹기.cpp)|
+|포켓몬|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/포켓몬.cpp)|
 |숫자의 표현|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/숫자의_표현.cpp)|
 |최댓값과 최솟값|C++|
-|최솟값 만들기|C++|
-|피보나치 수|C++|
-|행렬의 곱셈|C++|
-|JadenCase 문자열 만들기|C++|
-|N갸의 최소공배수|C++|
+|최솟값 만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/최솟값_만들기.cpp)|
+|피보나치 수|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/피보나치_수.cpp)|
+|행렬의 곱셈|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/행렬의_곱셈.cpp)|
+|JadenCase 문자열 만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/JadenCase_문자열_만들기.cpp)|
+|N개의 최소공배수|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/N개의_최소공배수.cpp)|
 |짝지어 제거하기|C++|
-|소수 만들기|C++|
-|점프와 순간 이동|C++|
-|영어 끝말잇기|C++|
-|예상 대진표|C++|
+|소수 만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/소수_만들기.cpp)|
+|점프와 순간 이동|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/점프와_순간_이동.cpp)|
+|영어 끝말잇기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/영어_끝말잇기.cpp)|
+|예상 대진표|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/예상_대진표.cpp)|
 |뉴스 클러스터링|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/뉴스_클러스터링.cpp)|
-|프렌즈4블록|C++|
-|캐시|C++|
-|오픈채팅방|C++|
+|프렌즈4블록|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/프렌즈4블록.cpp)|
+|캐시|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/캐시.cpp)|
+|오픈채팅방|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/오픈채팅방.cpp)|
 |후보키|C++|
 |방금그곡|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/방금그곡.cpp)|
-|압축|C++|
-|파일명 정렬|C++|
+|압축|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/압축.cpp)|
+|파일명 정렬|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/파일명_정렬.cpp)|
 |n진수 게임|C++|
 
 
