@@ -120,7 +120,7 @@
 |정수_삼각형|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/정수_삼각형.cpp)|
 |여행경로|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/여행경로.cpp)|
 |이중우선순위큐|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/이중우선순위큐.cpp)|
-|입국심사|C++|
+|입국심사|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/입국심사.cpp)|
 |저울|C++|
 |베스트앨범|C++|
 |등굣길|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/등굣길.cpp)|
