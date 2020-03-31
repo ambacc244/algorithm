@@ -32,5 +32,6 @@ vector<int> solution(vector<string> operations) {
         answer.push_back(queue.back());
         answer.push_back(queue.front());
     }
+    
     return answer;
 }

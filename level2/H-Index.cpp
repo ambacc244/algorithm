@@ -17,5 +17,6 @@ int solution(vector<int> citations) {
         if(citations[i] >= i+1 && i+1 >= citations[i+1])
             return i+1;
     }
+    
     return answer;
 }

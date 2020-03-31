@@ -18,8 +18,6 @@ int solution(string dirs) {
                 for(int d=0; d<11; d++)
                     pass[a][b][c][d] = false;
 
-
-
     for(int i=0; i<dirs.size(); i++){
         if(dirs[i] == 'U' && futureY != 10)
             futureY++;

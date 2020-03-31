@@ -41,5 +41,6 @@ int solution(vector<string> lines) {
         }
         answer =  max(answer, total);
     }
+    
     return answer;
 }

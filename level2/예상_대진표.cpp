@@ -14,5 +14,6 @@ int solution(int n, int a, int b) {
         b /= 2;
         answer++;
     }
+    
     return answer;
 }

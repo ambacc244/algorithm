@@ -21,5 +21,6 @@ int solution(string arrangement) {
             answer += 1;
         }
     }
+    
     return answer;
 }

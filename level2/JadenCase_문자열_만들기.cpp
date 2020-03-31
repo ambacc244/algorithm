@@ -39,5 +39,6 @@ string solution(string s) {
         answer += " ";
         words.pop_back();
     }
+    
     return answer.substr (0, answer.size()-1);
 }

@@ -41,5 +41,6 @@ long long solution(int n, vector<int> works) {
         answer += pow(q.top(), 2);
         q.pop();
     }
+    
     return answer;
 }

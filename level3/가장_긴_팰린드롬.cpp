@@ -6,7 +6,6 @@ using namespace std;
 int longest;
 
 int solution(string s) {
-
     int answer=0;
     longest = 1;
 
@@ -34,5 +33,6 @@ int solution(string s) {
                 index++;
         }
     }
+    
     return longest;
 }

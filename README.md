@@ -135,7 +135,7 @@
 |GPS|C++|
 |멀리_뛰기|C++|
 |방문_길이|C++|
-|야근_지수|C++|
+|야근_지수|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/야근_지수.cpp)|
 |줄_서는_방법|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/줄_서는_방법.cpp)|
 |최소의_집합|C++|
 |하노이_탑|C++|

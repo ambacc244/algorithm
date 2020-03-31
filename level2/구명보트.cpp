@@ -35,5 +35,6 @@ int solution(vector<int> people, int limit) {
         }
         answer++;
     }
+    
     return answer;
 }

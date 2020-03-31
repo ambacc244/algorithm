@@ -64,5 +64,6 @@ vector<string> solution(vector<string> record) {
 
         answer.push_back(val);
     }
+    
     return answer;
 }

@@ -42,5 +42,6 @@ int solution(int bridge_length, int weight, vector<int> truck_weights) {
             index = i;
             break;
         }
+        
     return answer+(bridge_length-index);
 }

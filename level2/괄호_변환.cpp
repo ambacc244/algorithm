@@ -39,7 +39,6 @@ string balance(string u, string v){
 }
 
 string separate(string p){
-
     if(p.size() == 0)
         return "";
 

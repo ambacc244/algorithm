@@ -6,7 +6,6 @@
 using namespace std;
 
 int solution(int m, int n, vector<vector<int>> puddles) {
-
     int grid[n][m];
 
     for(int i=0; i<n; i++)

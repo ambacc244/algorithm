@@ -25,5 +25,6 @@ int solution(int n, vector<int> stations, int w) {
         else
             answer += (n - current)/(w*2+1)+1;
     }
+    
     return answer;
 }

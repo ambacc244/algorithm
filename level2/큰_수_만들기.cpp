@@ -6,7 +6,6 @@
 using namespace std;
 
 string solution(string number, int k) {
-
     int size = number.size();
     string str = "";
 
@@ -36,5 +35,6 @@ string solution(string number, int k) {
         k = k-index+i;
         i = index;
     }
+    
     return str;
 }

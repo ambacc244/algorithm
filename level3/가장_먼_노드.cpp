@@ -46,5 +46,6 @@ int solution(int n, vector<vector<int>> edge) {
             answer = 1;
         }
     }
+    
     return answer;
 }

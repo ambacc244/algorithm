@@ -6,7 +6,6 @@
 using namespace std;
 
 int solution(vector<int> budgets, int M) {
-
     int answer = 100000;
     int max = 100000;
     int min = 1;
@@ -39,5 +38,6 @@ int solution(vector<int> budgets, int M) {
         else
             max = mid -1;
     }
+
     return answer;
 }

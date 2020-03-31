@@ -20,5 +20,6 @@ vector<int> solution(vector<int> heights) {
             }
         }
     }
+
     return answer;
 }

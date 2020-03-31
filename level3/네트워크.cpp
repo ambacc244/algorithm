@@ -24,5 +24,6 @@ int solution(int n, vector<vector<int>> computers) {
             answer++;
         }
     }
+    
     return answer;
 }

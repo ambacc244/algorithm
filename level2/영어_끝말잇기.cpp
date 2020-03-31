@@ -34,5 +34,6 @@ vector<int> solution(int n, vector<string> words) {
         answer.push_back(index%n+1);
         answer.push_back(index/n+1);
     }
+    
     return answer;
 }

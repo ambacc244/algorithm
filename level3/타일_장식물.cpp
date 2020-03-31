@@ -19,6 +19,6 @@ long long solution(int N) {
         small = big;
         big = temp + small;
     }
-
+    
     return big*4 + small*2;
 }

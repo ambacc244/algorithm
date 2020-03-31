@@ -8,7 +8,7 @@ int solution(int n, vector<vector<int>> results) {
     int answer = 0;
     int array[n+1][n+1];
     int count;
-    
+
     for(int i=1; i<=n; i++)
         for(int j=1; j<=n; j++)
             array[i][j] = 0;
@@ -45,5 +45,6 @@ int solution(int n, vector<vector<int>> results) {
         if(count == n-1)
             answer++;
     }
+    
     return answer;
 }

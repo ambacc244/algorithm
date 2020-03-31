@@ -19,5 +19,6 @@ int solution(vector<int> nums) {
         for(int j=i+1; j<nums.size(); j++)
             for(int k=j+1; k<nums.size(); k++)
                 isPrime(nums[i] + nums[j] + nums[k]);
+                
     return prime;
 }

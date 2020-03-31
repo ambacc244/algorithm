@@ -32,5 +32,6 @@ vector<int> solution(vector<int> progresses, vector<int> speeds) {
         }
         answer.push_back(index);
     }
+    
     return answer;
 }

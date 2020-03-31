@@ -29,7 +29,6 @@ void findPrimeNumber(string numbers, int number){
 }
 
 int solution(string numbers) {
-
     findPrimeNumber(numbers, 0);
     sort(primeNumbers.begin(), primeNumbers.end());
     primeNumbers.erase(unique(primeNumbers.begin(), primeNumbers.end()), primeNumbers.end());

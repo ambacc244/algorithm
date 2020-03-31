@@ -32,5 +32,6 @@ int solution(int cacheSize, vector<string> cities) {
         }
         cities.pop_back();
     }
+    
     return answer;
 }
