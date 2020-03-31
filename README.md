@@ -56,11 +56,11 @@
 |멀쩡한 사각형|C++|
 |프린터|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/프린터.cpp)|
 |문자열 압축|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/문자열_압축.cpp)|
-|카카오프렌즈 컬러링북|C++|
+|카카오프렌즈 컬러링북|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/카카오프렌즈_컬러링북.cpp)|
 |조이스틱|C++|
 |더 맵게|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/더_맵게.cpp)|
 |큰 수 만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/큰_수_만들기.cpp)|
-|소수 찾기|C++|
+|소수 찾기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/소수_찾기.cpp)|
 |괄호 변환|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/괄호_변환.cpp)|
 |가장 큰수|C++|
 |H-Index|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/H-Index.cpp)|
@@ -73,7 +73,7 @@
 |가장 큰 정사각형 찾기|C++|
 |단체사진 찍기|C++|
 |올바른 괄호|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/올바른_괄호.cpp)|
-|다은 큰 숫자|C++|
+|다음 큰 숫자|C++|
 |땅따먹기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/땅따먹기.cpp)|
 |포켓몬|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/포켓몬.cpp)|
 |숫자의 표현|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/숫자의_표현.cpp)|
@@ -114,17 +114,17 @@
 |섬 연결하기|C++|
 |디스크 컨트롤러|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/디스크_컨트롤러.cpp)|
 |예산|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/예산.cpp)|
-|가장 먼 노드|C++|
+|가장 먼 노드|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/가장_먼_노드.cpp)|
 |단속 카메라|C++|
-|단어 변환|C++|
-|정수 삼각형|C++|
+|단어 변환|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/단어_변환.cpp)|
+|정수 삼각형|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/정수_삼각형.cpp)|
 |여행경로|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/여행경로.cpp)|
 |이중우선순위큐|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/이중우선순위큐.cpp)|
 |입국심사|C++|
 |저울|C++|
 |베스트앨범|C++|
 |등굣길|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/등굣길.cpp)|
-|순위|C++|
+|순위|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/순위.cpp)|
 |보행자 천국|C++|
 |기둥과 보 설치|C++|
 |가장 긴 팰린드롬|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/가장_긴_팰린드롬.cpp)|
@@ -136,12 +136,12 @@
 |멀리 뛰기|C++|
 |방문 길이|C++|
 |야근 지수|C++|
-|줄 서는 방법|C++|
+|줄 서는 방법|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/줄_서는_방법.cpp)|
 |최소의 집합|C++|
 |하노이 탑|C++|
 |N-Queen|C++|
 |배달|C++|
-|기지국 설치|C++|
+|기지국 설치|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/기지국_설치.cpp)|
 |숫자 게임|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/숫자_게임.cpp)|
 |셔틀 버스|C++|
 |길 찾기 게임|C++|
