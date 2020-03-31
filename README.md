@@ -86,16 +86,16 @@
 |짝지어 제거하기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/짝지어_제거하기.cpp)|
 |소수 만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/소수_만들기.cpp)|
 |점프와 순간 이동|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/점프와_순간_이동.cpp)|
-|영어 끝말잇기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/영어_끝말잇기.cpp)|
-|예상 대진표|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/예상_대진표.cpp)|
-|뉴스 클러스터링|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/뉴스_클러스터링.cpp)|
+|영어_끝말잇기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/영어_끝말잇기.cpp)|
+|예상_대진표|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/예상_대진표.cpp)|
+|뉴스_클러스터링|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/뉴스_클러스터링.cpp)|
 |프렌즈4블록|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/프렌즈4블록.cpp)|
 |캐시|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/캐시.cpp)|
 |오픈채팅방|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/오픈채팅방.cpp)|
 |후보키|C++|
 |방금그곡|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/방금그곡.cpp)|
 |압축|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/압축.cpp)|
-|파일명 정렬|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/파일명_정렬.cpp)|
+|파일명_정렬|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/파일명_정렬.cpp)|
 |n진수 게임|C++|
 
 
@@ -109,15 +109,15 @@
 |2xn타일링|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/2xn타일링.cpp)|
 |브라이언의 고민|C++|
 |네트워크|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/네트워크.cpp)|
-|타일 장식물|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/타일_장식물.cpp)|
+|타일_장식물|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/타일_장식물.cpp)|
 |자물쇠와 열쇠|C++|
 |섬 연결하기|C++|
-|디스크 컨트롤러|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/디스크_컨트롤러.cpp)|
+|디스크_컨트롤러|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/디스크_컨트롤러.cpp)|
 |예산|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/예산.cpp)|
-|가장 먼 노드|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/가장_먼_노드.cpp)|
+|가장_먼_노드|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/가장_먼_노드.cpp)|
 |단속 카메라|C++|
-|단어 변환|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/단어_변환.cpp)|
-|정수 삼각형|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/정수_삼각형.cpp)|
+|단어_변환|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/단어_변환.cpp)|
+|정수_삼각형|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/정수_삼각형.cpp)|
 |여행경로|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/여행경로.cpp)|
 |이중우선순위큐|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/이중우선순위큐.cpp)|
 |입국심사|C++|
@@ -127,7 +127,7 @@
 |순위|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/순위.cpp)|
 |보행자 천국|C++|
 |기둥과 보 설치|C++|
-|가장 긴 팰린드롬|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/가장_긴_팰린드롬.cpp)|
+|가장_긴_팰린드롬|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/가장_긴_팰린드롬.cpp)|
 |외벽 점검|C++|
 |블록 이동하기|C++|
 |거스름돈|C++|
@@ -136,13 +136,13 @@
 |멀리 뛰기|C++|
 |방문 길이|C++|
 |야근 지수|C++|
-|줄 서는 방법|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/줄_서는_방법.cpp)|
+|줄_서는_방법|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/줄_서는_방법.cpp)|
 |최소의 집합|C++|
 |하노이 탑|C++|
 |N-Queen|C++|
 |배달|C++|
-|기지국 설치|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/기지국_설치.cpp)|
-|숫자 게임|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/숫자_게임.cpp)|
+|기지국_설치|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/기지국_설치.cpp)|
+|숫자_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/숫자_게임.cpp)|
 |셔틀 버스|C++|
 |길 찾기 게임|C++|
 |매칭 점수|C++|
