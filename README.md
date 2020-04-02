@@ -137,10 +137,10 @@
 |방문_길이|C++|
 |야근_지수|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/야근_지수.cpp)|
 |줄_서는_방법|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/줄_서는_방법.cpp)|
-|최소의_집합|C++|
-|하노이_탑|C++|
+|최고의_집합|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/최고의_집합.cpp)|
+|하노이_탑|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/하노이_탑.cpp)|
 |N-Queen|C++|
-|배달|C++|
+|배달|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/배달.cpp)|
 |기지국_설치|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/기지국_설치.cpp)|
 |숫자_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/숫자_게임.cpp)|
 |셔틀_버스|C++|
