@@ -57,7 +57,7 @@
 |프린터|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/프린터.cpp)|
 |문자열_압축|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/문자열_압축.cpp)|
 |카카오프렌즈_컬러링북|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/카카오프렌즈_컬러링북.cpp)|
-|조이스틱|C++|
+|조이스틱|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/조이스틱.cpp)|
 |더_맵게|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/더_맵게.cpp)|
 |큰_수_만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/큰_수_만들기.cpp)|
 |소수_찾기|[C++](https://github.com/ambacc244/algorithm/tree/master/level2/소수_찾기.cpp)|
@@ -126,7 +126,7 @@
 |등굣길|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/등굣길.cpp)|
 |순위|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/순위.cpp)|
 |보행자_천국|C++|
-|기둥과_보_설치|C++|
+|기둥과_보_설치|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/기둥과_보_설치.cpp)|
 |가장_긴_팰린드롬|[C++](https://github.com/ambacc244/algorithm/tree/master/level3/가장_긴_팰린드롬.cpp)|
 |외벽 점검|C++|
 |블록_이동하기|C++|
