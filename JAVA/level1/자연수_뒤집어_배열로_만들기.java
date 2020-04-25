@@ -3,7 +3,7 @@ import java.util.*;
 class Solution {
   public int[] solution(long n) {
       int[] answer = {};
-      ArrayList<Integer> list = new ArrayList<Integer>();
+      u
 
       while(n != 0){
           long temp = n%10;
