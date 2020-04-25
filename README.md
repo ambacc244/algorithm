@@ -46,15 +46,15 @@
 
 ## Level2
 
-|문제|코드|
-|:-------------|:-------------|
-|기능개발|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/기능개발.cpp)|
+|문제|C++|JAVA|
+|:-------------|:-------------|:-------------|
+|기능개발|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/기능개발.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/기능개발.cpp)|
 |스킬트리|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/스킬트리.cpp)|
 |124_나라의_숫자|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/124_나라의_숫자.cpp)|
-|탑|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/탑.cpp)|
+|탑|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/탑.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/탑.cpp)|
 |주식가격|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/주식가격.cpp)|
 |다리를_지나는_트럭|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/다리를_지나는_트럭.cpp)|
-|쇠막대기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/쇠막대기.cpp)|
+|쇠막대기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/쇠막대기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/쇠막대기.cpp)|
 |멀쩡한_사각형|C++|
 |프린터|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/프린터.cpp)|
 |문자열_압축|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/문자열_압축.cpp)|
