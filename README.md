@@ -56,7 +56,7 @@
 |주식가격|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/주식가격.cpp)|
 |다리를_지나는_트럭|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/다리를_지나는_트럭.cpp)|
 |쇠막대기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/쇠막대기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/쇠막대기.java)|
-|멀쩡한_사각형|C++|
+|멀쩡한_사각형|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/멀쩡한_사각형.cpp)|
 |프린터|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/프린터.cpp)|
 |문자열_압축|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/문자열_압축.cpp)|
 |카카오프렌즈_컬러링북|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/카카오프렌즈_컬러링북.cpp)|
@@ -65,7 +65,7 @@
 |큰_수_만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/큰_수_만들기.cpp)|
 |소수_찾기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/소수_찾기.cpp)|
 |괄호_변환|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/괄호_변환.cpp)|
-|가장_큰수|C++|
+|가장_큰수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/가장_큰수.cpp)|
 |H-Index|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/H-Index.cpp)|
 |전화번호_목록|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/전화번호_목록.cpp)|
 |위장|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/위장.cpp)|
@@ -74,8 +74,9 @@
 |라면_공장|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/라면_공장.cpp)|
 |카펫|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/카펫.cpp)|
 |가장_큰_정사각형_찾기|C++|
-|단체사진_찍기|C++|
+|단체사진_찍기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/단체사진_찍기.cpp)|
 |올바른_괄호|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/올바른_괄호.cpp)|
+|튜플|C++|
 |다음_큰_숫자|C++|
 |땅따먹기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/땅따먹기.cpp)|
 |포켓몬|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/포켓몬.cpp)|
