@@ -3,7 +3,7 @@
 
 ## Level1
 
-|문제|코드|
+|문제|C++|JAVA|
 |:-------------|:-------------|:-------------|
 |완주하지_못한_선수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/완주하지_못한_선수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/완주하지_못한_선수.cpp)|
 |모의고사|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/모의고사.cpp)|
