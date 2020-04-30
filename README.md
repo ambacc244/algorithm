@@ -171,7 +171,7 @@
 |게임_맵_최단거리|C++|
 |선입_선출_스케줄링|C++|
 |숫자_블록|C++|
-|올바른_괄호의_갯수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level3/올바른_괄호의_갯수.cpp)|
+|올바른_괄호의_갯수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level4/올바른_괄호의_갯수.cpp)|
 |쿠키_구입|C++|
 |최적의_행렬_곱셈|C++|
 |스티커_모으기2|C++|
