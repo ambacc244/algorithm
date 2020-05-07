@@ -76,7 +76,7 @@
 |가장_큰_정사각형_찾기|C++|
 |단체사진_찍기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/단체사진_찍기.cpp)|
 |올바른_괄호|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/올바른_괄호.cpp)|
-|튜플|C++|
+|튜플|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/튜플.cpp)|
 |다음_큰_숫자|C++|
 |땅따먹기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/땅따먹기.cpp)|
 |포켓몬|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/포켓몬.cpp)|
