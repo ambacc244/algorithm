@@ -73,11 +73,11 @@
 |타겟_넘버|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/타겟_넘버.cpp)|
 |라면_공장|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/라면_공장.cpp)|
 |카펫|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/카펫.cpp)|
-|가장_큰_정사각형_찾기|C++|
+|가장_큰_정사각형_찾기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/가장_큰_정사각형_찾기.cpp)|
 |단체사진_찍기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/단체사진_찍기.cpp)|
 |올바른_괄호|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/올바른_괄호.cpp)|
 |튜플|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/튜플.cpp)|
-|다음_큰_숫자|C++|
+|다음_큰_숫자|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/다음_큰_숫자.cpp)|
 |땅따먹기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/땅따먹기.cpp)|
 |포켓몬|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/포켓몬.cpp)|
 |숫자의_표현|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/숫자의_표현.cpp)|
@@ -140,6 +140,7 @@
 |멀리_뛰기|C++|
 |방문_길이|C++|
 |야근_지수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level3/야근_지수.cpp)|
+|불량_사용자|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level3/불량_사용자.cpp)|
 |줄_서는_방법|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level3/줄_서는_방법.cpp)|
 |최고의_집합|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level3/최고의_집합.cpp)|
 |하노이_탑|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level3/하노이_탑.cpp)|
