@@ -5,7 +5,7 @@
 
 |문제|C++|JAVA|
 |:-------------|:-------------|:-------------|
-|크레인_인형뽑기_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/크레인_인형뽑기_게임.cpp)|
+|크레인_인형뽑기_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/크레인_인형뽑기_게임.cpp)|[JAVA++](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/크레인_인형뽑기_게임.java)|
 |완주하지_못한_선수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/완주하지_못한_선수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/완주하지_못한_선수.java)|
 |모의고사|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/모의고사.cpp)|
 |K번째수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/K번째수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/K번째수.java)|
@@ -28,19 +28,19 @@
 |자릿수_더하기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/자릿수_더하기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/자릿수_더하기.java)|
 |자연수_뒤집어_배열로_만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/자연수_뒤집어_배열로_만들기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/자연수_뒤집어_배열로_만들기.java)|
 |정수_내림차순으로_배치하기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/정수_내림차순으로_배치하기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/정수_내림차순으로_배치하기.java)|
-|정수_제곱근_판별|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/정수_제곱근_판별.cpp)|
-|제일_작은_수_제거하기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/제일_작은_수_제거하기.cpp)|
-|짝수와_홀수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/짝수와_홀수.cpp)|
-|최대공약수와_최소공배수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/최대공약수와_최소공배수.cpp)|
-|콜라츠_추측|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/콜라츠_추측.cpp)|
-|평균_구하기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/평균_구하기.cpp)|
-|하샤드_수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/하샤드_수.cpp)|
-|핸드폰_번호_가리기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/핸드폰_번호_가리기.cpp)|
-|행렬의_덧셈|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/행렬의_덧셈.cpp)|
-|x만큼_간격이_있는_n개의_숫자|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/x만큼_간격이_있는_n개의_숫자.cpp)|
-|직사각형_별찍기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/직사각형_별찍기.cpp)|
-|예산|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/예산.cpp)|
-|비밀지도|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/비밀지도.cpp)|
+|정수_제곱근_판별|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/정수_제곱근_판별.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/정수_제곱근_판별.java)|
+|제일_작은_수_제거하기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/제일_작은_수_제거하기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/제일_작은_수_제거하기.java)|
+|짝수와_홀수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/짝수와_홀수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/짝수와_홀수.java)|
+|최대공약수와_최소공배수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/최대공약수와_최소공배수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/최대공약수와_최소공배수.java)|
+|콜라츠_추측|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/콜라츠_추측.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/콜라츠_추측.java)|
+|평균_구하기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/평균_구하기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/평균_구하기.java)|
+|하샤드_수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/하샤드_수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/하샤드_수.java)|
+|핸드폰_번호_가리기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/핸드폰_번호_가리기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/핸드폰_번호_가리기.java)|
+|행렬의_덧셈|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/행렬의_덧셈.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/행렬의_덧셈.java)|
+|x만큼_간격이_있는_n개의_숫자|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/x만큼_간격이_있는_n개의_숫자.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/x만큼_간격이_있는_n개의_숫자.java)|
+|직사각형_별찍기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/직사각형_별찍기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/직사각형_별찍기.java)|
+|예산|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/예산.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/예산.java)|
+|비밀지도|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/비밀지도.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/비밀지도.java)|
 |실패율|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/실패율.cpp)|
 |다트_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/다트_게임.cpp)|
 
