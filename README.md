@@ -5,7 +5,7 @@
 
 |문제|C++|JAVA|
 |:-------------|:-------------|:-------------|
-|크레인_인형뽑기_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/크레인_인형뽑기_게임.cpp)|[JAVA++](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/크레인_인형뽑기_게임.java)|
+|크레인_인형뽑기_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/크레인_인형뽑기_게임.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/크레인_인형뽑기_게임.java)|
 |완주하지_못한_선수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/완주하지_못한_선수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/완주하지_못한_선수.java)|
 |모의고사|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/모의고사.cpp)|
 |K번째수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/K번째수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/K번째수.java)|
@@ -42,7 +42,7 @@
 |예산|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/예산.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/예산.java)|
 |비밀지도|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/비밀지도.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/비밀지도.java)|
 |실패율|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/실패율.cpp)|
-|다트_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/다트_게임.cpp)|
+|다트_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/다트_게임.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/다트_게임.java)|
 
 
 ## Level2
