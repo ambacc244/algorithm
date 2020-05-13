@@ -20,6 +20,7 @@ vector<int> solution(int N, vector<int> stages) {
     }
 
     double temp;
+    
     for(int i=1; i<N+1; i++){
         temp = stage[i];
         stage[i] /= (double)count;
