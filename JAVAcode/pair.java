@@ -24,6 +24,16 @@ class Pair<L,R> {
     }
 }
 
+class Pair<L,R> {
+    L key;
+    R value;
+
+    public Pair(L key, R value) {
+        this.key = key;
+        this.value = value;
+    }
+}
+
 
 /**
 List<Pair<Character, Integer>> pairs =  new ArrayList<>();

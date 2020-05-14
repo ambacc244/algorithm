@@ -9,9 +9,6 @@ string solution(string number, int k) {
     int size = number.size();
     string str = "";
 
-    if(number.size() == k)
-        return "";
-
     for(int i=0; i<size; i++){
         if(k == size-i)
             break;
@@ -35,6 +32,6 @@ string solution(string number, int k) {
         k = k-index+i;
         i = index;
     }
-    
+
     return str;
 }

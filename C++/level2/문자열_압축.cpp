@@ -17,7 +17,7 @@ int solution(string s) {
         index = 1;
         token = s.substr(0, i);
 
-        for(int j =i; j<s.size(); j += i){
+        for(int j=i; j<s.size(); j += i){
             if(token.compare(s.substr(j, i)) == 0){
                 index++;
             }
