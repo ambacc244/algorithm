@@ -72,7 +72,7 @@
 |구명보트|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/구명보트.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/구명보트.java)|
 |타겟_넘버|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/타겟_넘버.cpp)|
 |라면_공장|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/라면_공장.cpp)|
-|카펫|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/카펫.cpp)|
+|카펫|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/카펫.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/카펫.java)|
 |가장_큰_정사각형_찾기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/가장_큰_정사각형_찾기.cpp)|
 |단체사진_찍기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/단체사진_찍기.cpp)|
 |올바른_괄호|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/올바른_괄호.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/올바른_괄호.java)|
@@ -88,10 +88,10 @@
 |JadenCase_문자열_만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/JadenCase_문자열_만들기.cpp)|
 |N개의_최소공배수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/N개의_최소공배수.cpp)|
 |짝지어_제거하기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/짝지어_제거하기.cpp)|
-|소수_만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/소수_만들기.cpp)|
+|소수_만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/소수_만들기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/소수_만들기.java)|
 |점프와_순간_이동|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/점프와_순간_이동.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/점프와_순간_이동.java)|
 |영어_끝말잇기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/영어_끝말잇기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/영어_끝말잇기.java)|
-|예상_대진표|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/예상_대진표.cpp)|
+|예상_대진표|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/예상_대진표.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/예상_대진표.java)|
 |뉴스_클러스터링|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/뉴스_클러스터링.cpp)|
 |프렌즈4블록|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/프렌즈4블록.cpp)|
 |캐시|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/캐시.cpp)|
