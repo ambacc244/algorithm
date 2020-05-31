@@ -70,8 +70,8 @@
 |전화번호_목록|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/전화번호_목록.cpp)|
 |위장|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/위장.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/위장.java)|
 |구명보트|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/구명보트.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/구명보트.java)|
-|타겟_넘버|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/타겟_넘버.cpp)|
-|라면_공장|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/라면_공장.cpp)|
+|타겟_넘버|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/타겟_넘버.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/타겟_넘버.java)|
+|라면_공장|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/라면_공장.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/라면_공장.java)|
 |카펫|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/카펫.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/카펫.java)|
 |가장_큰_정사각형_찾기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/가장_큰_정사각형_찾기.cpp)|
 |단체사진_찍기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/단체사진_찍기.cpp)|
@@ -83,7 +83,7 @@
 |숫자의_표현|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/숫자의_표현.cpp)|
 |최댓값과_최솟값|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/최댓값과_최솟값.cpp)|
 |최솟값_만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/최솟값_만들기.cpp)|
-|피보나치_수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/피보나치_수.cpp)|
+|피보나치_수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/피보나치_수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/피보나치_수.java)|
 |행렬의_곱셈|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/행렬의_곱셈.cpp)|
 |JadenCase_문자열_만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/JadenCase_문자열_만들기.cpp)|
 |N개의_최소공배수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/N개의_최소공배수.cpp)|
@@ -94,11 +94,11 @@
 |예상_대진표|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/예상_대진표.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/예상_대진표.java)|
 |뉴스_클러스터링|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/뉴스_클러스터링.cpp)|
 |프렌즈4블록|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/프렌즈4블록.cpp)|
-|캐시|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/캐시.cpp)|
-|오픈채팅방|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/오픈채팅방.cpp)|
+|캐시|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/캐시.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/캐시.java)|
+|오픈채팅방|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/오픈채팅방.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/오픈채팅방.java)|
 |후보키|C++|
 |방금그곡|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/방금그곡.cpp)|
-|압축|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/압축.cpp)|
+|압축|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/압축.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/압축.java)|
 |파일명_정렬|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/파일명_정렬.cpp)|
 |n진수 게임|C++|
 

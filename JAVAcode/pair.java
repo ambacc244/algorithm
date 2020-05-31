@@ -35,7 +35,5 @@ class Pair<L,R> {
 }
 
 
-/**
-List<Pair<Character, Integer>> pairs =  new ArrayList<>();
-pairs.add(new Pair<>(skill.charAt(i), -1));
-**/
+ArrayList<Pair<Character, Integer>> list =  new ArrayList<>();
+list.add(new Pair<>(skill.charAt(i), -1));
