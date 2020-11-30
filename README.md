@@ -4,7 +4,7 @@
 ## Level1
 
 |문제|C++|JAVA|
-|:-------------|:-------------|:-------------|
+|:-------------|:-------------|:-------------|:-------------|
 |크레인_인형뽑기_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/크레인_인형뽑기_게임.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/크레인_인형뽑기_게임.java)|
 |완주하지_못한_선수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/완주하지_못한_선수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/완주하지_못한_선수.java)|
 |모의고사|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/모의고사.cpp)|
@@ -42,7 +42,7 @@
 |예산|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/예산.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/예산.java)|
 |비밀지도|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/비밀지도.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/비밀지도.java)|
 |실패율|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/실패율.cpp)|
-|다트_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/다트_게임.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/다트_게임.java)|
+|다트_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/다트_게임.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/다트_게임.java)|[JS](https://github.com/ambacc244/algorithm/tree/master/JavaScript/level1/다트_게임.java)|
 
 
 ## Level2
@@ -79,9 +79,9 @@
 |튜플|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/튜플.cpp)|
 |다음_큰_숫자|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/다음_큰_숫자.cpp)|
 |땅따먹기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/땅따먹기.cpp)|
-|포켓몬|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/포켓몬.cpp)|
+|포켓몬|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/포켓몬.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/포켓몬.cpp)|
 |숫자의_표현|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/숫자의_표현.cpp)|
-|최댓값과_최솟값|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/최댓값과_최솟값.cpp)|
+|최댓값과_최솟값|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/최댓값과_최솟값.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/최댓값과_최솟값.java)|
 |최솟값_만들기|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/최솟값_만들기.cpp)|
 |피보나치_수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/피보나치_수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level2/피보나치_수.java)|
 |행렬의_곱셈|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level2/행렬의_곱셈.cpp)|
