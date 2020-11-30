@@ -3,7 +3,7 @@
 
 ## Level1
 
-|문제|C++|JAVA|
+|문제|C++|JAVA|JavaScript|
 |:-------------|:-------------|:-------------|:-------------|
 |크레인_인형뽑기_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/크레인_인형뽑기_게임.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/크레인_인형뽑기_게임.java)|
 |완주하지_못한_선수|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/완주하지_못한_선수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/완주하지_못한_선수.java)|
@@ -42,7 +42,7 @@
 |예산|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/예산.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/예산.java)|
 |비밀지도|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/비밀지도.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/비밀지도.java)|
 |실패율|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/실패율.cpp)|
-|다트_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/다트_게임.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/다트_게임.java)|[JS](https://github.com/ambacc244/algorithm/tree/master/JavaScript/level1/다트_게임.java)|
+|다트_게임|[C++](https://github.com/ambacc244/algorithm/tree/master/C%2B%2B/level1/다트_게임.cpp)|[JAVA](https://github.com/ambacc244/algorithm/tree/master/JAVA/level1/다트_게임.java)|[JS](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/다트_게임.js)|
 
 
 ## Level2
