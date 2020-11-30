@@ -20,7 +20,7 @@
 |문자열_다루기_기본|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/문자열_다루기_기본.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/문자열_다루기_기본.java)|
 |서울에서_김서방_찾기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/서울에서_김서방_찾기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/서울에서_김서방_찾기.java)|
 |소수_찾기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/소수_찾기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/소수_찾기.java)|
-|수박수박수박수박수박수?|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/수박수박수박수박수박수%3F.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/수박수박수박수박수박수%3F.java)|
+|수박수박수박수박수박수?|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/수박수박수박수박수박수%3F.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/수박수박수박수박수박수%3F.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/수박수박수박수박수박수%3F.js)|
 |문자열을_정수로_바꾸기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/문자열을_정수로_바꾸기.cpp)|
 |시저_암호|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/시저_암호.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/시저_암호.java)|
 |약수의_합|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/약수의_합.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/약수의_합.java)|
@@ -39,8 +39,8 @@
 |행렬의_덧셈|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/행렬의_덧셈.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/행렬의_덧셈.java)|
 |x만큼_간격이_있는_n개의_숫자|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/x만큼_간격이_있는_n개의_숫자.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/x만큼_간격이_있는_n개의_숫자.java)|
 |직사각형_별찍기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/직사각형_별찍기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/직사각형_별찍기.java)|
-|예산|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/예산.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/예산.java)|
-|비밀지도|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/비밀지도.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/비밀지도.java)|
+|예산|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/예산.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/예산.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/예산.js)|
+|비밀지도|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/비밀지도.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/비밀지도.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/비밀지도.js)|
 |실패율|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/실패율.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/실패율.js)|
 |다트_게임|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/다트_게임.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/다트_게임.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/다트_게임.js)|
 
