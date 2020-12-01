@@ -6,12 +6,14 @@
 |문제|C++|JAVA|JavaScript|
 |:-------------|:-------------|:-------------|:-------------|
 |크레인_인형뽑기_게임|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/크레인_인형뽑기_게임.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/크레인_인형뽑기_게임.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/크레인_인형뽑기_게임.js)|
+|두_개_뽑아서_더하기|C++|JAVA|JavaScript|
 |완주하지_못한_선수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/완주하지_못한_선수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/완주하지_못한_선수.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/완주하지_못한_선수.js)|
 |모의고사|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/모의고사.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/모의고사.js)|
 |K번째수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/K번째수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/K번째수.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/K번째수.js)|
 |체육복|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/체육복.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/체육복.js)
 |2016년|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/2016년.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/2016년.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/2016년.js)|
 |가운데_글자_가져오기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/가운데_글자_가져오기.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/가운데_글자_가져오기.js)|
+|3진법 뒤집기|C++|JAVA|JavaScript|
 |같은_숫자는_싫어|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/같은_숫자는_싫어.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/같은_숫자는_싫어.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/같은_숫자는_싫어.js)|
 |나누어_떨어지는_숫자_배열|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/나누어_떨어지는_숫자_배열.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/나누어_떨어지는_숫자_배열.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/나누어_떨어지는_숫자_배열.js)|
 |두_정수_사이의_합|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/두_정수_사이의_합.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/두_정수_사이의_합.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/두_정수_사이의_합.js)|
@@ -23,6 +25,7 @@
 |수박수박수박수박수박수?|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/수박수박수박수박수박수%3F.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/수박수박수박수박수박수%3F.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/수박수박수박수박수박수%3F.js)|
 |문자열을_정수로_바꾸기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/문자열을_정수로_바꾸기.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/문자열을_정수로_바꾸기.js)|
 |시저_암호|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/시저_암호.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/시저_암호.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/시저_암호.js)|
+|내적|C++|JAVA|JavaScript|
 |약수의_합|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/약수의_합.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/약수의_합.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/약수의_합.js)|
 |이상한_문자_만들기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/이상한_문자_만들기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/이상한_문자_만들기.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/이상한_문자_만들기.js)|
 |자릿수_더하기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/자릿수_더하기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/자릿수_더하기.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/자릿수_더하기.js)|
@@ -31,6 +34,7 @@
 |정수_제곱근_판별|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/정수_제곱근_판별.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/정수_제곱근_판별.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/정수_제곱근_판별.js)|
 |제일_작은_수_제거하기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/제일_작은_수_제거하기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/제일_작은_수_제거하기.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/제일_작은_수_제거하기.js)|
 |짝수와_홀수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/짝수와_홀수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/짝수와_홀수.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/짝수와_홀수.js)|
+|키패드 누르기|C++|JAVA|JavaScript|
 |최대공약수와_최소공배수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/최대공약수와_최소공배수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/최대공약수와_최소공배수.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/최대공약수와_최소공배수.js)|
 |콜라츠_추측|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/콜라츠_추측.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/콜라츠_추측.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/콜라츠_추측.js)|
 |평균_구하기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/평균_구하기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/평균_구하기.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/평균_구하기.js)|
