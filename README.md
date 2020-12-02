@@ -23,7 +23,7 @@
 |서울에서_김서방_찾기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/서울에서_김서방_찾기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/서울에서_김서방_찾기.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/서울에서_김서방_찾기.js)|
 |소수_찾기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/소수_찾기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/소수_찾기.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/소수_찾기.js)|
 |수박수박수박수박수박수?|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/수박수박수박수박수박수%3F.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/수박수박수박수박수박수%3F.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/수박수박수박수박수박수%3F.js)|
-|문자열을_정수로_바꾸기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/문자열을_정수로_바꾸기.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/문자열을_정수로_바꾸기.js)|
+|문자열을_정수로_바꾸기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/문자열을_정수로_바꾸기.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/문자열을_정수로_바꾸기.js)|
 |시저_암호|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/시저_암호.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/시저_암호.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/시저_암호.js)|
 |내적||||
 |약수의_합|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/약수의_합.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/약수의_합.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/약수의_합.js)|
@@ -58,7 +58,7 @@
 |124_나라의_숫자|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/124_나라의_숫자.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/124_나라의_숫자.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/124_나라의_숫자.js)|
 |탑|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/탑.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/탑.java)|
 |주식가격|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/주식가격.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/주식가격.java)|
-|다리를_지나는_트럭|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/다리를_지나는_트럭.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/다리를_지나는_트럭.js)|
+|다리를_지나는_트럭|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/다리를_지나는_트럭.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/다리를_지나는_트럭.js)|
 |쇠막대기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/쇠막대기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/쇠막대기.java)|
 |멀쩡한_사각형|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/멀쩡한_사각형.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/멀쩡한_사각형.java)|
 |프린터|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/프린터.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/프린터.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/프린터.js)|
@@ -67,7 +67,7 @@
 |조이스틱|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/조이스틱.cpp)|
 |더_맵게|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/더_맵게.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/더_맵게.java)|
 |큰_수_만들기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/큰_수_만들기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/큰_수_만들기.java)|
-|소수_찾기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/소수_찾기.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/소수_찾기.js)|
+|소수_찾기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/소수_찾기.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/소수_찾기.js)|
 |괄호_변환|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/괄호_변환.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/괄호_변환.java)|
 |가장_큰수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/가장_큰수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/가장_큰수.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/가장_큰수.js)|
 |H-Index|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/H-Index.cpp)|
