@@ -51,8 +51,8 @@
 
 ## Level2
 
-|문제|C++|JAVA|
-|:-------------|:-------------|:-------------|
+|문제|C++|JAVA|JavaScript|
+|:-------------|:-------------|:-------------|:-------------|
 |기능개발|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/기능개발.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/기능개발.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/기능개발.js)|
 |스킬트리|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/스킬트리.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/스킬트리.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/스킬트리.js)|
 |124_나라의_숫자|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/124_나라의_숫자.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/124_나라의_숫자.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/124_나라의_숫자.js)|
@@ -109,8 +109,8 @@
 
 ## Level3
 
-|문제|코드|
-|:-------------|:-------------|
+|문제|C++|JAVA|JavaScript|
+|:-------------|:-------------|:-------------|:-------------|
 |추석_트래픽|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/추석_트래픽.cpp)|
 |종이접기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/종이접기.cpp)|
 |N으로_표현||
@@ -159,8 +159,8 @@
 
 ## Level4
 
-|문제|코드|
-|:-------------|:-------------|
+|문제|C++|JAVA|JavaScript|
+|:-------------|:-------------|:-------------|:-------------|
 |지형_이동||
 |4단_고음||
 |3xn타일링||
@@ -189,8 +189,8 @@
 
 ## Level5
 
-|문제|코드|
-|:-------------|:-------------|
+|문제|C++|JAVA|JavaScript|
+|:-------------|:-------------|:-------------|:-------------|
 |방의_개수||
 |신비로운_유적_탐험||
 |직사각형의_넓이||
