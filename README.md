@@ -6,14 +6,14 @@
 |문제|C++|JAVA|JavaScript|
 |:-------------|:-------------|:-------------|:-------------|
 |크레인_인형뽑기_게임|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/크레인_인형뽑기_게임.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/크레인_인형뽑기_게임.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/크레인_인형뽑기_게임.js)|
-|두_개_뽑아서_더하기|C++|JAVA|JavaScript|
+|두_개_뽑아서_더하기||||
 |완주하지_못한_선수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/완주하지_못한_선수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/완주하지_못한_선수.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/완주하지_못한_선수.js)|
-|모의고사|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/모의고사.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/모의고사.js)|
+|모의고사|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/모의고사.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/모의고사.js)|
 |K번째수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/K번째수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/K번째수.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/K번째수.js)|
-|체육복|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/체육복.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/체육복.js)
+|체육복|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/체육복.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/체육복.js)
 |2016년|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/2016년.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/2016년.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/2016년.js)|
-|가운데_글자_가져오기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/가운데_글자_가져오기.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/가운데_글자_가져오기.js)|
-|3진법 뒤집기|C++|JAVA|JavaScript|
+|가운데_글자_가져오기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/가운데_글자_가져오기.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/가운데_글자_가져오기.js)|
+|3진법 뒤집기|C++||JavaScript|
 |같은_숫자는_싫어|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/같은_숫자는_싫어.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/같은_숫자는_싫어.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/같은_숫자는_싫어.js)|
 |나누어_떨어지는_숫자_배열|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/나누어_떨어지는_숫자_배열.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/나누어_떨어지는_숫자_배열.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/나누어_떨어지는_숫자_배열.js)|
 |두_정수_사이의_합|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/두_정수_사이의_합.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/두_정수_사이의_합.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/두_정수_사이의_합.js)|
@@ -45,7 +45,7 @@
 |직사각형_별찍기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/직사각형_별찍기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/직사각형_별찍기.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/직사각형_별찍기.js)|
 |예산|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/예산.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/예산.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/예산.js)|
 |비밀지도|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/비밀지도.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/비밀지도.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/비밀지도.js)|
-|실패율|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/실패율.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/실패율.js)|
+|실패율|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/실패율.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/실패율.js)|
 |다트_게임|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/다트_게임.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/다트_게임.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/다트_게임.js)|
 
 
@@ -100,11 +100,11 @@
 |프렌즈4블록|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/프렌즈4블록.cpp)|
 |캐시|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/캐시.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/캐시.java)|
 |오픈채팅방|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/오픈채팅방.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/오픈채팅방.java)|
-|후보키|C++|
+|후보키||
 |방금그곡|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/방금그곡.cpp)|
 |압축|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/압축.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/압축.java)|
 |파일명_정렬|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/파일명_정렬.cpp)|
-|n진수 게임|C++|
+|n진수 게임||
 
 
 ## Level3
@@ -115,86 +115,86 @@
 |종이접기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/종이접기.cpp)|
 |N으로_표현|C++|
 |2xn타일링|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/2xn타일링.cpp)|
-|브라이언의_고민|C++|
+|브라이언의_고민||
 |네트워크|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/네트워크.cpp)|
 |타일_장식물|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/타일_장식물.cpp)|
 |자물쇠와_열쇠|C++|
-|섬_연결하기|C++|
+|섬_연결하기||
 |디스크_컨트롤러|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/디스크_컨트롤러.cpp)|
 |예산|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/예산.cpp)|
 |가장_먼_노드|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/가장_먼_노드.cpp)|
-|단속_카메라|C++|
+|단속_카메라||
 |단어_변환|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/단어_변환.cpp)|
 |정수_삼각형|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/정수_삼각형.cpp)|
 |여행경로|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/여행경로.cpp)|
 |이중우선순위큐|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/이중우선순위큐.cpp)|
 |입국심사|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/입국심사.cpp)|
-|저울|C++|
-|베스트앨범|C++|
+|저울||
+|베스트앨범||
 |등굣길|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/등굣길.cpp)|
 |순위|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/순위.cpp)|
-|보행자_천국|C++|
+|보행자_천국||
 |기둥과_보_설치|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/기둥과_보_설치.cpp)|
 |가장_긴_팰린드롬|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/가장_긴_팰린드롬.cpp)|
-|외벽 점검|C++|
-|블록_이동하기|C++|
-|거스름돈|C++|
-|리틀_프렌즈_사천성|C++|
-|GPS|C++|
-|멀리_뛰기|C++|
-|방문_길이|C++|
+|외벽 점검||
+|블록_이동하기||
+|거스름돈||
+|리틀_프렌즈_사천성||
+|GPS||
+|멀리_뛰기||
+|방문_길이||
 |야근_지수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/야근_지수.cpp)|
 |불량_사용자|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/불량_사용자.cpp)|
 |줄_서는_방법|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/줄_서는_방법.cpp)|
 |최고의_집합|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/최고의_집합.cpp)|
 |하노이_탑|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/하노이_탑.cpp)|
-|N-Queen|C++|
+|N-Queen||
 |배달|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/배달.cpp)|
 |기지국_설치|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/기지국_설치.cpp)|
 |숫자_게임|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/숫자_게임.cpp)|
-|셔틀_버스|C++|
-|길_찾기_게임|C++|
-|매칭_점수|C++|
+|셔틀_버스||
+|길_찾기_게임||
+|매칭_점수||
 
 
 ## Level4
 
 |문제|코드|
 |:-------------|:-------------|
-|지형_이동|C++|
-|4단_고음|C++|
-|3xn타일링|C++|
-|사이클_제거|C++|
-|징검다리|C++|
-|가사_검색|C++|
-|카드_게임|C++|
-|도둑질|C++|
-|서울에서_경산_까지|C++|
-|캠핑|C++|
-|몸짱_트레이너_라이언의_고민|C++|
-|사칙연산|C++|
-|게임_맵_최단거리|C++|
-|선입_선출_스케줄링|C++|
-|숫자_블록|C++|
+|지형_이동||
+|4단_고음||
+|3xn타일링||
+|사이클_제거||
+|징검다리||
+|가사_검색||
+|카드_게임||
+|도둑질||
+|서울에서_경산_까지||
+|캠핑||
+|몸짱_트레이너_라이언의_고민||
+|사칙연산||
+|게임_맵_최단거리||
+|선입_선출_스케줄링||
+|숫자_블록||
 |올바른_괄호의_갯수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level4/올바른_괄호의_갯수.cpp)|
-|쿠키_구입|C++|
-|최적의_행렬_곱셈|C++|
-|스티커_모으기2|C++|
-|단업_퍼즐|C++|
-|지형_편집|C++|
-|무지의_먹방_라이브|C++|
-|블록_게임|C++|
-|자동완성|C++|
+|쿠키_구입||
+|최적의_행렬_곱셈||
+|스티커_모으기2||
+|단업_퍼즐||
+|지형_편집||
+|무지의_먹방_라이브||
+|블록_게임||
+|자동완성||
 
 
 ## Level5
 
 |문제|코드|
 |:-------------|:-------------|
-|방의_개수|C++|
-|신비로운_유적_탐험|C++|
-|직사각형의_넓이|C++|
-|튜브의_소개팅|C++|
-|스마트한_프로도|C++|
-|IU와_콘의_보드게임|C++|
-|네와의_귀걸이|C++|
+|방의_개수||
+|신비로운_유적_탐험||
+|직사각형의_넓이||
+|튜브의_소개팅||
+|스마트한_프로도||
+|IU와_콘의_보드게임||
+|네와의_귀걸이||
