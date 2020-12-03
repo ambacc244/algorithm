@@ -68,12 +68,12 @@
 |더_맵게|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/더_맵게.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/더_맵게.java)|
 |큰_수_만들기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/큰_수_만들기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/큰_수_만들기.java)|
 |소수_찾기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/소수_찾기.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/소수_찾기.js)|
-|괄호_변환|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/괄호_변환.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/괄호_변환.java)|
+|괄호_변환|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/괄호_변환.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/괄호_변환.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/괄호_변환.js)|
 |가장_큰수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/가장_큰수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/가장_큰수.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/가장_큰수.js)|
 |H-Index|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/H-Index.cpp)|
 |전화번호_목록|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/전화번호_목록.cpp)|
 |위장|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/위장.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/위장.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/위장.js)|
-|구명보트|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/구명보트.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/구명보트.java)|
+|구명보트|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/구명보트.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/구명보트.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/구명보트.js)|
 |타겟_넘버|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/타겟_넘버.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/타겟_넘버.java)|
 |라면_공장|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/라면_공장.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/라면_공장.java)|
 |카펫|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/카펫.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/카펫.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/카펫.js)|
