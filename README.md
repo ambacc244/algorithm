@@ -95,16 +95,16 @@
 |소수_만들기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/소수_만들기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/소수_만들기.java)|
 |점프와_순간_이동|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/점프와_순간_이동.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/점프와_순간_이동.java)|
 |영어_끝말잇기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/영어_끝말잇기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/영어_끝말잇기.java)|
-|예상_대진표|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/예상_대진표.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/예상_대진표.java)|
+|예상_대진표|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/예상_대진표.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/예상_대진표.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/예상_대진표.js)|
 |뉴스_클러스터링|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/뉴스_클러스터링.cpp)|
 |프렌즈4블록|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/프렌즈4블록.cpp)|
-|캐시|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/캐시.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/캐시.java)|
-|오픈채팅방|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/오픈채팅방.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/오픈채팅방.java)|
-|후보키||
+|캐시|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/캐시.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/캐시.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/캐시.js)|
+|오픈채팅방|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/오픈채팅방.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/오픈채팅방.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/오픈채팅방.js)|
+|후보키|
 |방금그곡|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/방금그곡.cpp)|
 |압축|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/압축.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/압축.java)|
 |파일명_정렬|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/파일명_정렬.cpp)|
-|n진수 게임||
+|n진수 게임|
 
 
 ## Level3
