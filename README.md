@@ -66,7 +66,7 @@
 |카카오프렌즈_컬러링북|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/카카오프렌즈_컬러링북.cpp)|
 |조이스틱|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/조이스틱.cpp)|
 |더_맵게|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/더_맵게.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/더_맵게.java)|
-|큰_수_만들기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/큰_수_만들기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/큰_수_만들기.java)|
+|큰_수_만들기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/큰_수_만들기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/큰_수_만들기.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/큰_수_만들기.js)|
 |소수_찾기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/소수_찾기.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/소수_찾기.js)|
 |괄호_변환|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/괄호_변환.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/괄호_변환.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/괄호_변환.js)|
 |가장_큰수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/가장_큰수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/가장_큰수.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/가장_큰수.js)|
@@ -80,7 +80,7 @@
 |가장_큰_정사각형_찾기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/가장_큰_정사각형_찾기.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/가장_큰_정사각형_찾기.js)|
 |단체사진_찍기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/단체사진_찍기.cpp)|
 |올바른_괄호|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/올바른_괄호.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/올바른_괄호.java)|
-|튜플|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/튜플.cpp)|
+|튜플|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/튜플.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/튜플.js)|
 |다음_큰_숫자|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/다음_큰_숫자.cpp)|
 |땅따먹기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/땅따먹기.cpp)|
 |포켓몬|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/포켓몬.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/포켓몬.cpp)|
