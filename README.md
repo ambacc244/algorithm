@@ -77,10 +77,10 @@
 |타겟_넘버|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/타겟_넘버.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/타겟_넘버.java)|
 |라면_공장|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/라면_공장.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/라면_공장.java)|
 |카펫|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/카펫.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/카펫.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/카펫.js)|
-|가장_큰_정사각형_찾기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/가장_큰_정사각형_찾기.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/가장_큰_정사각형_찾기.js)|
+|가장_큰_정사각형_찾기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/가장_큰_정사각형_찾기.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/가장_큰_정사각형_찾기.js)|
 |단체사진_찍기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/단체사진_찍기.cpp)|
 |올바른_괄호|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/올바른_괄호.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/올바른_괄호.java)|
-|튜플|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/튜플.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/튜플.js)|
+|튜플|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/튜플.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/튜플.js)|
 |다음_큰_숫자|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/다음_큰_숫자.cpp)|
 |땅따먹기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/땅따먹기.cpp)|
 |포켓몬|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/포켓몬.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/포켓몬.cpp)|
@@ -97,7 +97,7 @@
 |영어_끝말잇기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/영어_끝말잇기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/영어_끝말잇기.java)|
 |예상_대진표|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/예상_대진표.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/예상_대진표.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/예상_대진표.js)|
 |뉴스_클러스터링|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/뉴스_클러스터링.cpp)|
-|프렌즈4블록|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/프렌즈4블록.cpp)|JAVA|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/프렌즈4블록.js)|
+|프렌즈4블록|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/프렌즈4블록.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/프렌즈4블록.js)|
 |캐시|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/캐시.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/캐시.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/캐시.js)|
 |오픈채팅방|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/오픈채팅방.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/오픈채팅방.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/오픈채팅방.js)|
 |후보키|
