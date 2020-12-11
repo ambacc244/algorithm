@@ -5,10 +5,9 @@
 using namespace std;
 
 int solution(string s) {
-    int pass = false;
     stack<char> st;
 
-    if(s.size()%2 ==1)
+    if(s.size()%2 == 1)
         return 0;
 
     for(auto c : s){
