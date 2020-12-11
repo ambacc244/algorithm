@@ -6,7 +6,7 @@
 |문제|C++|JAVA|JavaScript|
 |:-------------|:-------------|:-------------|:-------------|
 |크레인_인형뽑기_게임|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/크레인_인형뽑기_게임.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/크레인_인형뽑기_게임.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/크레인_인형뽑기_게임.js)|
-|두_개_뽑아서_더하기||||
+|두_개_뽑아서_더하기|||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/두_개_뽑아서_더하기.js)|
 |완주하지_못한_선수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/완주하지_못한_선수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/완주하지_못한_선수.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/완주하지_못한_선수.js)|
 |모의고사|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/모의고사.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/모의고사.js)|
 |K번째수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level1/K번째수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level1/K번째수.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level1/K번째수.js)|
