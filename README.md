@@ -85,9 +85,10 @@
 |땅따먹기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/땅따먹기.cpp)|
 |포켓몬|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/포켓몬.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/포켓몬.cpp)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/포켓몬.js)|
 |숫자의_표현|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/숫자의_표현.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/숫자의_표현.js)|
+|이진_변환_반복하기|||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/이진_변환_반복하기.js)|
 |최댓값과_최솟값|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/최댓값과_최솟값.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/최댓값과_최솟값.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/최댓값과_최솟값.js)|
 |최솟값_만들기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/최솟값_만들기.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/최솟값_만들기.js)|
-|피보나치_수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/피보나치_수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/피보나치_수.java)|
+|피보나치_수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/피보나치_수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/피보나치_수.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/피보나치_수.java)|
 |행렬의_곱셈|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/행렬의_곱셈.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/행렬의_곱셈.js)|
 |JadenCase_문자열_만들기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/JadenCase_문자열_만들기.cpp)|
 |N개의_최소공배수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/N개의_최소공배수.cpp)|
