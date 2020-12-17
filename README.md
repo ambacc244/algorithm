@@ -105,7 +105,7 @@
 |방금그곡|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/방금그곡.cpp)|
 |압축|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/압축.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/압축.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/압축.js)|
 |파일명_정렬|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/파일명_정렬.cpp)|
-|n진수 게임|
+|n진수_게임|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/n진수_게임.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/n진수_게임.js)|
 
 
 ## Level3
