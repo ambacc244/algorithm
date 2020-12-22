@@ -60,7 +60,7 @@
 |주식가격|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/주식가격.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/주식가격.java)|
 |다리를_지나는_트럭|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/다리를_지나는_트럭.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/다리를_지나는_트럭.js)|
 |쇠막대기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/쇠막대기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/쇠막대기.java)|
-|멀쩡한_사각형|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/멀쩡한_사각형.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/멀쩡한_사각형.java)|
+|멀쩡한_사각형|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/멀쩡한_사각형.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/멀쩡한_사각형.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/멀쩡한_사각형.js)|
 |프린터|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/프린터.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/프린터.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/프린터.js)|
 |문자열_압축|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/문자열_압축.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/문자열_압축.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/문자열_압축.js)|
 |카카오프렌즈_컬러링북|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/카카오프렌즈_컬러링북.cpp)|
@@ -90,7 +90,7 @@
 |최솟값_만들기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/최솟값_만들기.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/최솟값_만들기.js)|
 |피보나치_수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/피보나치_수.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/피보나치_수.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/피보나치_수.java)|
 |행렬의_곱셈|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/행렬의_곱셈.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/행렬의_곱셈.js)|
-|JadenCase_문자열_만들기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/JadenCase_문자열_만들기.cpp)|
+|JadenCase_문자열_만들기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/JadenCase_문자열_만들기.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/JadenCase_문자열_만들기.cpp)|
 |N개의_최소공배수|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/N개의_최소공배수.cpp)|
 |짝지어_제거하기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/짝지어_제거하기.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/짝지어_제거하기.js)|
 |소수_만들기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level2/소수_만들기.cpp)|[JAVA](https://github.com/ambacc244/algorithm/blob/master/JAVA/level2/소수_만들기.java)|[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level2/소수_만들기.js)|
