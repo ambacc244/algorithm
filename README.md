@@ -112,7 +112,7 @@
 
 |문제|C++|JAVA|JavaScript|
 |:-------------|:-------------|:-------------|:-------------|
-|추석_트래픽|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/추석_트래픽.cpp)|
+|추석_트래픽|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/추석_트래픽.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level3/추석_트래픽.js)|
 |종이접기|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/종이접기.cpp)|
 |N으로_표현||
 |2xn타일링|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/2xn타일링.cpp)|
