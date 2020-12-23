@@ -9,6 +9,5 @@ function check(numbers, target, index, val){
 }
 
 function solution(numbers, target) {
-    
     return check(numbers, target, 0, 0);
 }

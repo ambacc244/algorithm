@@ -3,8 +3,6 @@ function numberSort(a, b){
 }
 
 function solution(d, budget) {
-    var answer = 0;
-    
     d.sort(numberSort);
   
     for(let i=0; i<d.length; i++){

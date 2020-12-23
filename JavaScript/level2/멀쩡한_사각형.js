@@ -5,7 +5,6 @@ function gcd(a, b){
 }
 
 function solution(w, h) {
-    var answer = 1;
     let val;
     
     if(w > h)

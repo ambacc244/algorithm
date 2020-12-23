@@ -1,6 +1,4 @@
 function solution(participant, completion) {
-    var answer = '';
-    
     participant.sort();
     completion.sort();
     

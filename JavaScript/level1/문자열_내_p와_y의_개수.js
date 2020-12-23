@@ -1,5 +1,4 @@
 function solution(s){
-    var answer = true;
     let numP = 0;
     let numY = 0;
     

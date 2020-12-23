@@ -12,7 +12,6 @@ function countOne(n){
 }
 
 function solution(n) {
-    var answer = 0;
     let count = countOne(n++);
     
     while(countOne(n++) !== count){}

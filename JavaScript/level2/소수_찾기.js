@@ -20,8 +20,6 @@ function FindPrimrNumber(str, val){
 }
 
 function solution(numbers) {
-    var answer = 0;
-    
     FindPrimrNumber(numbers, 0);
 
     return [...new Set(cache)].length;

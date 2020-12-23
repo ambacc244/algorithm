@@ -1,5 +1,3 @@
-이진_변환_반복하기.js
-
 function solution(s) {
     let count = 0;
     let num0 = 0;
