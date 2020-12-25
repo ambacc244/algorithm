@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-//pass
+
 using namespace std;
 
 int longest;

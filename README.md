@@ -129,14 +129,14 @@
 |정수_삼각형|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/정수_삼각형.cpp)|
 |여행경로|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/여행경로.cpp)|
 |이중우선순위큐|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/이중우선순위큐.cpp)|
-|입국심사|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/입국심사.cpp)|
+|입국심사|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/입국심사.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level3/입국심사.js)|
 |저울||
 |베스트앨범||
 |등굣길|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/등굣길.cpp)|
-|순위|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/순위.cpp)|
+|순위|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/순위.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level3/순위.js)|
 |보행자_천국||
 |기둥과_보_설치|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/기둥과_보_설치.cpp)|
-|가장_긴_팰린드롬|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/가장_긴_팰린드롬.cpp)|
+|가장_긴_팰린드롬|[C++](https://github.com/ambacc244/algorithm/blob/master/C%2B%2B/level3/가장_긴_팰린드롬.cpp)||[JavaScript](https://github.com/ambacc244/algorithm/blob/master/JavaScript/level3/가장_긴_팰린드롬.js)|
 |외벽 점검||
 |블록_이동하기||
 |거스름돈||
